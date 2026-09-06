@@ -1,0 +1,22 @@
+{
+  "name": "BAPS Rajkot",
+  "short_name": "BAPS Rajkot",
+  "description": "BAPS Rajkot App",
+  "start_url": "/bapsrajkot/",
+  "scope": "/bapsrajkot/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "/bapsrajkot/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/bapsrajkot/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
